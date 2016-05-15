@@ -1,3 +1,5 @@
+//Находит кратчайшее синхронизируемое слово для автоматов
+
 #include <iostream>
 #include <cmath>
 #include<iostream>
